@@ -21,8 +21,7 @@ The notebook includes everything you need:
 
 Method Overview
 ---------------
-
-![main](https://github.com/user-attachments/assets/34c97c32-9fc8-4f08-bdd4-70280a03759e)
+![main](https://github.com/user-attachments/assets/b6ddaa35-6e5e-499a-be84-8932365866e4)
 
 The proposed method enhances CBIR through a dynamic thresholding approach. Here's how it works:
 
@@ -55,8 +54,10 @@ The dynamic thresholding method was evaluated against a static threshold baselin
 
 These gains highlight the method's ability to enhance CBIR performance across datasets of varying complexity.
 
-![image](https://github.com/user-attachments/assets/e86f726a-e261-42ae-a5e9-790e8e6e2f7b)
-![image](https://github.com/user-attachments/assets/e52da62d-51ee-42ec-8c6f-37a912487090)
+![image](https://github.com/user-attachments/assets/3f73816c-d976-456d-84f1-f8133db864ff)
+
+
+![image](https://github.com/user-attachments/assets/cbcc5ffa-d181-4ee8-8f93-ba63aa3be8ec)
 
 
 
